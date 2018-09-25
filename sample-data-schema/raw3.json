@@ -1,0 +1,21 @@
+{
+    "scores":[
+        {"userId": "user69", "userName": "布佐 吉太", "activeRate": 333, "knowledgeAmount": 0, "responseTime": 0, "myReactionSpeed": 0, "sentimentalJourney": 0, "mentionsToAll": 0, "tagUseScore": 0, "influencerScore": 0, "groupAcitivity": {}, "mentionsTargetScore": 0},
+        {"userId": "user96", "userName": "安曇 優", "activeRate": 333, "knowledgeAmount": 0, "responseTime": 0, "myReactionSpeed": 0, "sentimentalJourney": 25, "mentionsToAll": 25, "tagUseScore": 75, "influencerScore": 0, "groupAcitivity": {}, "mentionsTargetScore": 30},
+        {"userId": "user126", "userName": "播間 貴美世", "activeRate": 666, "knowledgeAmount": 0, "responseTime": 11700, "myReactionSpeed": 11700,"sentimentalJourney": 100, "mentionsToAll": 0, "tagUseScore": 0, "influencerScore": 25, "groupAcitivity": {}, "mentionsTargetScore": 90},
+        {"userId": "user128", "userName": "土網 成良", "activeRate": 666, "knowledgeAmount": 0, "responseTime": 5500, "myReactionSpeed": 5500, "sentimentalJourney": 75, "mentionsToAll": 0, "tagUseScore": 0, "influencerScore": 35, "groupAcitivity": {}, "mentionsTargetScore": 90},
+        {"userId": "user160", "userName": "大壺 和", "activeRate": 666, "knowledgeAmount": 0, "responseTime": 2900, "myReactionSpeed": 2900, "sentimentalJourney": 50, "mentionsToAll": 0, "tagUseScore": 0, "influencerScore": 15, "groupAcitivity": {}, "mentionsTargetScore": 30},
+        {"userId": "user161", "userName": "小路丸 英樹", "activeRate": 666, "knowledgeAmount": 0, "responseTime": 6400, "myReactionSpeed": 6400, "sentimentalJourney": 0, "mentionsToAll": 0, "tagUseScore": 75, "influencerScore": 20, "groupAcitivity": {}, "mentionsTargetScore": 30},
+        {"userId": "user162", "userName": "森萩 郊美", "activeRate": 333, "knowledgeAmount": 0, "responseTime": 0, "myReactionSpeed": 0, "sentimentalJourney": 0, "mentionsToAll": 0, "tagUseScore": 0, "influencerScore": 0, "groupAcitivity": {}, "mentionsTargetScore": 0},
+        {"userId": "user176", "userName": "矢賀谷 将由", "activeRate": 666, "knowledgeAmount": 0, "responseTime": 0, "myReactionSpeed": 0, "sentimentalJourney": 25, "mentionsToAll": 0, "tagUseScore": 75, "influencerScore": 25, "groupAcitivity": {}, "mentionsTargetScore": 60},
+        {"userId": "user209", "userName": "櫻﨑 裕子", "activeRate": 0, "knowledgeAmount": 0, "responseTime": 0, "myReactionSpeed": 0, "sentimentalJourney": 0, "mentionsToAll": 0, "tagUseScore": 0, "influencerScore": 10, "groupAcitivity": {}, "mentionsTargetScore": 0},
+        {"userId": "user264", "userName": "福王 諒行", "activeRate": 666, "knowledgeAmount": 0, "responseTime": 100, "myReactionSpeed": 100, "sentimentalJourney": 50, "mentionsToAll": 0, "tagUseScore": 0, "influencerScore": 35, "groupAcitivity": {}, "mentionsTargetScore": 90},
+        {"userId": "user271", "userName": "宝上 安夫", "activeRate": 666, "knowledgeAmount": 0, "responseTime": 1600, "myReactionSpeed": 1600, "sentimentalJourney": 100, "mentionsToAll": 0, "tagUseScore": 0, "influencerScore": 15, "groupAcitivity": {}, "mentionsTargetScore": 150},
+        {"userId": "user278", "userName": "戸小尾 志浦", "activeRate": 333, "knowledgeAmount": 0, "responseTime": 0, "myReactionSpeed": 0, "sentimentalJourney": 0, "mentionsToAll": 0, "tagUseScore": 0, "influencerScore": 0, "groupAcitivity": {}, "mentionsTargetScore": 0},
+        {"userId": "user322", "userName": "餅永 裕己重", "activeRate": 666, "knowledgeAmount": 0, "responseTime": 0, "myReactionSpeed": 0, "sentimentalJourney": 0, "mentionsToAll": 25, "tagUseScore": 0, "influencerScore": 0, "groupAcitivity": {}, "mentionsTargetScore": 60}
+    ],
+    "period":{
+        "start":"",
+        "end":""
+    }
+}

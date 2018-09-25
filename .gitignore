@@ -6,3 +6,5 @@
 
 # vscodeの設定ディレクトリ（vscodeユーザー向け）
 /.vscode/
+
+log/log*

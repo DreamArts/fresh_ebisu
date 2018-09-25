@@ -1,0 +1,203 @@
+{
+    "user": {
+        "id": "f9c0b33e9a8e85c1c6386e371e92ea99903e0eba",
+        "label": "user",
+        "type": "vertex",
+        "properties": {
+            "name": [
+                {
+                    "id": "aacb8a5f-1fbe-4331-9172-4d3234f3047b",
+                    "value": "user18"
+                }
+            ],
+            "fullName": [
+                {
+                    "id": "15c021e1-416e-49a2-98fb-b758e6482021",
+                    "value": "旅 美倭"
+                }
+            ]
+        }
+    },
+    "messages": [
+        {
+            "message": {
+                "id": "4884b48716d868e01405b35f89aa176366adc21f",
+                "label": "message",
+                "type": "vertex",
+                "properties": {
+                    "createdAt": [
+                        {
+                            "id": "6b572265-66e7-4b79-ad69-a2297cba8cbc",
+                            "value": "1529485490297"
+                        }
+                    ]
+                }
+            },
+            "mentions": {
+                "toUser": [
+                    {
+                        "id": "8af21694a7cbfbfb831098bcd76959bd6106536a",
+                        "label": "user",
+                        "type": "vertex",
+                        "properties": {
+                            "name": [
+                                {
+                                    "id": "4b2dbd2a-2088-4480-9f19-ab22fa38c5d4",
+                                    "value": "user36"
+                                }
+                            ],
+                            "fullName": [
+                                {
+                                    "id": "61d41858-1fa7-4fd5-aeb4-f4acdae34d5a",
+                                    "value": "大後 実孝"
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "toGroup": []
+            },
+            "receivedReactions": [
+                {
+                    "id": "e570e307-7d30-493f-a4ce-37db09642f66",
+                    "label": "reaction",
+                    "type": "vertex",
+                    "properties": {
+                        "createdAt": [
+                            {
+                                "id": "15997a0b-16e4-408b-bb73-11975f5bec43",
+                                "value": "1529486170731"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "id": "8e677737-4684-440e-a91e-ba14601d8c3c",
+                                "value": "open_hands"
+                            }
+                        ],
+                        "sentiment": [
+                            {
+                                "id": "69f02350-9320-4675-8ead-b0ec3e2dd055",
+                                "value": "+1"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "46bebbc4-79f9-4968-999e-bd811b933bbf",
+                    "label": "reaction",
+                    "type": "vertex",
+                    "properties": {
+                        "createdAt": [
+                            {
+                                "id": "d4c1f673-055b-4ef3-b821-230bc69590ff",
+                                "value": "1529487229072"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "id": "3fb2dcef-56cf-4034-8959-f27c163e9e6b",
+                                "value": "open_hands"
+                            }
+                        ],
+                        "sentiment": [
+                            {
+                                "id": "c6ad69be-cd9a-44d0-b8d1-b03d7fb1f578",
+                                "value": "+1"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "99c7a342-dcc0-45f7-a422-505064933e0d",
+                    "label": "reaction",
+                    "type": "vertex",
+                    "properties": {
+                        "createdAt": [
+                            {
+                                "id": "ec54ec18-7e28-4344-86de-0a438d4c1a62",
+                                "value": "1529485563069"
+                            }
+                        ],
+                        "name": [
+                            {
+                                "id": "9f53bcf2-067c-4cc1-9a88-bfa26b138215",
+                                "value": "sweet_smile"
+                            }
+                        ],
+                        "sentiment": [
+                            {
+                                "id": "0f394a11-2752-4153-aec9-8427f37b752b",
+                                "value": "0"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "tags": []
+        }
+    ],
+    "receivedMentions": [
+        {
+            "id": "2537244569c5fa88df09dfec262535f7be37ddef",
+            "label": "message",
+            "type": "vertex",
+            "properties": {
+                "createdAt": [
+                    {
+                        "id": "20e7ab72-cbdc-481a-b3ba-0fa364f46efe",
+                        "value": "1529483851390"
+                    }
+                ]
+            }
+        }
+    ],
+    "sendReactions": [
+        {
+            "reaction": {
+                "id": "971058ad-b14f-4100-a152-5d73a05eef38",
+                "label": "reaction",
+                "type": "vertex",
+                "properties": {
+                    "createdAt": [
+                        {
+                            "id": "428478e9-53c0-4a67-8440-2062c0b96c03",
+                            "value": "1529485338148"
+                        }
+                    ],
+                    "name": [
+                        {
+                            "id": "bf04c6f9-097b-4995-a60d-d49221b565ca",
+                            "value": "heart_eyes"
+                        }
+                    ],
+                    "sentiment": [
+                        {
+                            "id": "5d0c32db-13fb-4eba-a379-4dc299233c35",
+                            "value": "+1"
+                        }
+                    ]
+                }
+            },
+            "message": [
+                {
+                    "id": "2537244569c5fa88df09dfec262535f7be37ddef",
+                    "label": "message",
+                    "type": "vertex",
+                    "properties": {
+                        "createdAt": [
+                            {
+                                "id": "20e7ab72-cbdc-481a-b3ba-0fa364f46efe",
+                                "value": "1529483851390"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "period": {
+        "start": "1527778800",
+        "end": "1530370800"
+    }
+}
