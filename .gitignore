@@ -1,0 +1,8 @@
+# .DS_Store
+/.DS_Store
+
+# 各自.envにAPI Tokenなどを書く
+/.env
+
+# vscodeの設定ディレクトリ（vscodeユーザー向け）
+/.vscode/

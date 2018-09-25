@@ -1,0 +1,61 @@
+{
+    "period":{
+        "start":"2018-02-05",
+        "end":"2018-03-05"
+    },
+    "scores":[
+        {
+            "userId": "一意なユーザーID",
+            "userName": "表示名",
+            "activeRate": "IN率、アクティブ率",
+            "knowledgeAmount": "知識量",
+            "responseTime": "返事の早さ",
+            "myReactionSpeed": "自分が行うリアクションの早さ",
+            "sentimentalJourney": "自分のメッセージについたリアクションのsentimenスコア",
+            "mentionsToAll": "@allの使用の多さ",
+            "tagUseScore": "タグの利用数に基づくスコア",
+            "influencerScore": "インフルエンサースコア",
+            "groupAcitivity": {
+                "groupA": "所属するグループの活発度",
+                "groupB": "グループ数はユーザーによって異なる",
+                "hogehoge": "グループ名がキーとなるが、キーはバラバラの可能性あり" 
+            },
+            "mentionsTargetScore": "どれほど幅広くメンション、幅広いグループでの発言を行っているか"
+        },
+        {
+            "userId": "87a7s6s77622asacc",
+            "userName": "山田太郎",
+            "activeRate": 50,
+            "knowledgeAmount": 600,
+            "responseTime": 100,
+            "myReactionSpeed": 5000,
+            "sentimentalJourney": 250,
+            "mentionsToAll": 5000,
+            "tagUseScore": 500,
+            "influencerScore": 876,
+            "groupAcitivity": {
+                "groupA": 200,
+                "groupB": 50,
+                "groupZ": 90
+            },
+            "mentionsTargetScore": 7
+        },
+        {
+            "userId": "87a7s6s77622aaaasacc",
+            "userName": "山田太郎2",
+            "activeRate": 2,
+            "knowledgeAmount": 600,
+            "responseTime": 100,
+            "myReactionSpeed": 50,
+            "sentimentalJourney": 20,
+            "mentionsToAll": 5,
+            "tagUseScore": 500,
+            "influencerScore": 76,
+            "groupAcitivity": {
+                "groupA": 2005,
+                "groupG": 50
+            },
+            "mentionsTargetScore": 255
+        }
+    ]
+}
